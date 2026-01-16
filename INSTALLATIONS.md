@@ -27,7 +27,7 @@ Git is a version control system that helps you track changes and collaborate on 
 
 Python is the programming language we will use.
 
-- Download and install Python 3.10 or higher from: https://www.python.org/downloads/  
+- Download and install Python 3.11.9 from: https://www.python.org/downloads/windows/
 - Make sure to check the option **“Add Python to PATH”** during installation (Windows).  
 - To verify installation, open your terminal or command prompt and run:  
   ```bash
