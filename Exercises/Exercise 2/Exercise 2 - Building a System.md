@@ -4,8 +4,8 @@
 
 You will receive:
 
-- A one-dimensional input signal with a given bandwidth, sampled at a specified frequency. The input signal is FM-modulated.
-- A one-dimensional reference signal, sampled at a specified frequency. The reference signal is **not** modulated.
+- An input signal with a given bandwidth, sampled at a specified frequency. The input signal is FM-modulated.
+- A reference signal, sampled at a specified frequency. The reference signal is **not** modulated.
 
 **Goal:**  
 The system should find the reference signal within the input signal.
