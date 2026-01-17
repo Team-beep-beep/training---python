@@ -1,0 +1,9 @@
+numpy
+pandas
+hydra-core
+omegaconf
+pydantic
+ruff
+
+pytest
+matplotlib
