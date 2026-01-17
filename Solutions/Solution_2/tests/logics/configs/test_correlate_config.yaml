@@ -1,0 +1,5 @@
+test_config:
+  correlate_config:
+    easter_egg_path: C:/Users/sagie/OneDrive/Desktop/GIT/training---python/Exercises/Exercise 2/easter_egg.bin
+  input_signal_path: C:/Users/sagie/OneDrive/Desktop/GIT/training---python/Exercises/Exercise 2/demodulated_signal.bin
+  correct_index: 123456
