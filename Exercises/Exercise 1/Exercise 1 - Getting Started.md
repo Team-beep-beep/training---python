@@ -13,8 +13,16 @@ Your first task is to prepare your development environment from scratch.
 - In PyCharm, create a new project and set up a virtual environment (venv) as the Python interpreter for this project.
 - Inside your project, add a `requirements.txt` file containing only the package `numpy`.
 - Install the dependencies listed in `requirements.txt` inside your virtual environment.
-- Write a simple `main.py` script that imports `numpy`, initializes an array, performs a basic calculation, and prints the result to verify your environment works correctly.
+- You can see the installed dependencies via "pip list"
+- Run setup_check.py to make sure everything runs properly.
 - Commit your changes with a clear and descriptive message.
+
+*Tip*: To set up venv and install requirements
+- Open the PyCharm terminal and run "python -m venv venv".
+- Run "venv/Scripts/activate".
+- You should see "(venv)" appear at the start of the line.
+- Now you can install the requirements using "pip install -r .\requirements.txt".
+- Make sure you see "Python 3.11" set up as the venv interpreter on the bottom right.
 
 **Reflect on:**
 
