@@ -1,0 +1,7 @@
+test_config:
+  module_config:
+    fs_hz: 441000
+    freq_shift_hz: -176400
+    down_sample_factor: 10
+  input_signal_path: C:/Users/sagie/OneDrive/Desktop/GIT/training---python/Exercises/Exercise 2/input_signal.bin
+  test_signal_path: C:/Users/sagie/OneDrive/Desktop/GIT/training---python/Exercises/Exercise 2/extracted_channel.bin
