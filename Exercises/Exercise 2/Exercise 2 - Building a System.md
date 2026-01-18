@@ -5,21 +5,22 @@
 You will receive:
 
 - An input signal with a given bandwidth, sampled at a specified frequency. The input signal is FM-modulated.
-- A reference signal, sampled at a specified frequency. The reference signal is **not** modulated.
+- An Easter egg signal which was planted in the input signal, sampled at a specified frequency. The Easter egg signal is **not** modulated.
 
 **Goal:**  
-The system should find the reference signal within the input signal.
+The system should find the Easter egg signal within the input signal.
 
 ---
+## Before you start
+- How will the system work? What will it consist of?
 
 ## What You Need to Do
 
 - Write a **short design document** explaining your approach.
 - Divide the system into **modules**.
 - Implement a **simple multi-stage system**.
-- Use a **configuration file** to manage parameters.
+- Use **configuration files** to manage parameters.
 - Write **tests** to verify your implementation.
-- Submit your solution as a **separate Git repository**.
 
 ---
 
@@ -32,7 +33,6 @@ The system should find the reference signal within the input signal.
 
 ## Code Review (CR) Focus Points
 
-- Test signal data will be provided upon request.
 - Proper project structure.
 - Clear function design.
 - Ease of extensibility.

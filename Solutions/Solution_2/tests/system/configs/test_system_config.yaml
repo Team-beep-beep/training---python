@@ -6,7 +6,7 @@ test_config:
   fm_demod_config:
     fs_hz: 44100
   correlate_config:
-    easter_egg_path: C:/Users/sagie/OneDrive/Desktop/GIT/training---python/Exercises/Exercise 2/easter_egg.bin
+    easter_egg_path: C:/Users/sagie/OneDrive/Desktop/GIT/training---python/Exercises/Exercise 2/signals/easter_egg.bin
 
-  input_signal_path: C:/Users/sagie/OneDrive/Desktop/GIT/training---python/Exercises/Exercise 2/input_signal.bin
+  input_signal_path: C:/Users/sagie/OneDrive/Desktop/GIT/training---python/Exercises/Exercise 2/signals/input_signal.bin
   correct_index: 123456

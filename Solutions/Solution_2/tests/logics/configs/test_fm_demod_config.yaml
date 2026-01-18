@@ -1,5 +1,5 @@
 test_config:
   module_config:
     fs_hz: 44100
-  input_signal_path: C:/Users/sagie/OneDrive/Desktop/GIT/training---python/Exercises/Exercise 2/extracted_channel.bin
-  test_signal_path: C:/Users/sagie/OneDrive/Desktop/GIT/training---python/Exercises/Exercise 2/demodulated_signal.bin
+  input_signal_path: C:/Users/sagie/OneDrive/Desktop/GIT/training---python/Exercises/Exercise 2/signals/extracted_channel.bin
+  test_signal_path: C:/Users/sagie/OneDrive/Desktop/GIT/training---python/Exercises/Exercise 2/signals/demodulated_signal.bin

@@ -87,5 +87,3 @@ Enhance your project with configuration management and automated testing:
 - Manage feature development using separate Git branches.
 
 ---
-
-Complete these exercises in order, and don’t hesitate to ask for help if any step is unclear.
